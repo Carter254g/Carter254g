@@ -8,7 +8,7 @@
 
 Full-stack developer based in **Nairobi, Kenya** building web apps, automation tools, and dApps.
 
-I work across the entire stack — from clean React frontends to Node.js backends, Python automation scripts, and Solidity smart contracts. If you need a business web app, an automation tool, or a dApp — I build it.
+I work across the entire stack  from clean React frontends to Node.js backends, Python automation scripts, and Solidity smart contracts. If you need a business web app, an automation tool, or a dApp  I build it.
 
 ---
 
@@ -50,7 +50,7 @@ Built with React, Node.js, PostgreSQL. Deployed and live.
 ---
 
 ### Price Alert Bot
-Python Telegram bot that searches Jiji Kenya, monitors prices and fires alerts when your target price is hit. Also has a built-in marketplace — list and sell items with photos directly from Telegram.
+Python Telegram bot that searches Jiji Kenya, monitors prices and fires alerts when your target price is hit. Also has a built-in marketplace  list and sell items with photos directly from Telegram.
 
 **Repo:** https://github.com/Carter254g/price-alert-bot
 
