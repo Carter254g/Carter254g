@@ -92,3 +92,11 @@ ERC-20 token built with Solidity and a React dApp with MetaMask integration. Con
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Carter254g&color=blue&style=flat" alt="Profile views" />
 </div>
+
+---
+
+### Kenya Public Data API
+A free public REST API serving Kenya public data — all 47 counties, banks, M-Pesa paybills and public holidays. No auth required.
+
+**Live:** https://kenya-api-90wq.onrender.com
+**Repo:** https://github.com/Carter254g/kenya-api
